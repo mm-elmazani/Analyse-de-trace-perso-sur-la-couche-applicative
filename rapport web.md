@@ -7,7 +7,7 @@ Ce rapport analyse les échanges réseau capturés avec Wireshark en se concentr
 ## **Introduction**
 
 ### **HTTP/1.1**
-Introduit en 1997, **HTTP/1.1** est l’une des versions les plus utilisées du protocole HTTP. Il repose sur le protocole de transport **TCP** pour garantir la fiabilité des échanges entre le client et le serveur. Cependant, il présente des limitations, notamment l’absence de multiplexage (une seule requête à la fois par connexion TCP)..
+Introduit en 1997, **HTTP/1.1** est l’une des versions les plus utilisées du protocole HTTP. Il repose sur le protocole de transport **TCP** pour garantir la fiabilité des échanges entre le client et le serveur. Cependant, il présente des limitations, notamment l’absence de multiplexage (une seule requête à la fois par connexion TCP).
 
 ### **HTTP/3**
 **HTTP/3** est une évolution majeure reposant sur le protocole de transport **QUIC**, lui-même basé sur **UDP**. QUIC apporte des améliorations significatives :
