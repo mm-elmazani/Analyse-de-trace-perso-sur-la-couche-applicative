@@ -127,6 +127,3 @@ L'analyse des trois versions du protocole HTTP met en évidence une évolution s
 
 Chaque version apporte des améliorations adaptées aux besoins croissants du Web moderne. Cette étude montre comment ces protocoles répondent aux enjeux actuels en termes de rapidité, sécurité et fiabilité.
 
----
-
-_Fichier généré pour le cours d'Administration Systèmes et Réseaux._
